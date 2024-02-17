@@ -1,0 +1,33 @@
+.navbar-nav {
+    margin-left: 500px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* ------section 2----- */
+.bt{
+    margin-bottom: 200px;
+}
+/* ----Section 7----- */
+.se1{
+    width: 100%;
+    height: 400px;
+    margin-bottom: 100px;
+}
+.tt{
+   padding-top: 100px;
+}
+.bd{
+    background-color: lightblue;
+}
+
+
+/* ---6 */
+.im1{
+    opacity: 0.4;
+}
+.im1:hover{
+    opacity: 1;
+}
